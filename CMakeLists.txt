@@ -22,3 +22,4 @@ endif()
 
 
 add_subdirectory(osgdebug)
+add_subdirectory(osgslavecamera)
